@@ -12,21 +12,21 @@ This project is a chat application built using the MERN stack (MongoDB, Express.
 
 ### Login Page
 
-![Login Page](../client/public/Login.png)
+![Login Page](./client/public/Login.png)
 
 ### Register Page
 
-![Register Page](../client/public/Register.png)
+![Register Page](./client/public/Register.png)
 
 ### Chat Page
 
 ## User 1
 
-![Chat Page](../client/public/user1.png)
+![Chat Page](./client/public/user1.png)
 
 ## User 2
 
-![Chat Page](../client/public/user2.png)
+![Chat Page](./client/public/user2.png)
 
 ## Installation
 
